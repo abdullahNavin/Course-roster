@@ -1,0 +1,74 @@
+[
+    {
+        "img": "https://i.postimg.cc/d3PzH66X/bootcamp-banner-6000.png",
+        "title": "Web Development Bootcamp",
+        "details": "Learn HTML, CSS, JavaScript, and more. Build interactive websites and web applications from scratch.",
+        "price": 199.99,
+        "id": 1,
+        "credit": 4
+    },
+    {
+        "img": "https://i.postimg.cc/9MKWWypt/phyton.png",
+        "title": "Python Programming for Beginners",
+        "details": "Master Python basics, data structures, and algorithms. Start your journey into the world of programming.",
+        "price": 99.95,
+        "id": 2,
+        "credit": 3
+    },
+    {
+        "img": "https://i.postimg.cc/DZgV8Lnb/java.png",
+        "title": "Java Enterprise Application Development",
+        "details": "Develop scalable and secure enterprise applications using Java, Spring, and Hibernate.",
+        "price": 249.99,
+        "id": 3,
+        "credit": 5
+    },
+    {
+        "img": "https://i.postimg.cc/ZqSpqSCM/lukas-h-ND1-OG3q67k-unsplash.jpg",
+        "title": "Machine Learning Fundamentals",
+        "details": "Explore machine learning concepts and algorithms. Build predictive models and data analysis skills.",
+        "price": 149.99,
+        "id": 4,
+        "credit": 4
+    },
+    {
+        "img": "https://i.postimg.cc/XvfKKvRW/react-native.png",
+        "title": "Mobile App Development with React Native",
+        "details": "Create cross-platform mobile apps using React Native. Learn to build apps for iOS and Android.",
+        "price": 129.99,
+        "id": 5,
+        "credit": 4
+    },
+    {
+        "img": "https://i.postimg.cc/85dyC4ph/nodeJS.jpg",
+        "title": "Full-Stack Web Development with Node.js",
+        "details": "Become a full-stack developer using Node.js, Express, and MongoDB. Create modern web applications.",
+        "price": 179.95,
+        "id": 6,
+        "credit": 4
+    },
+    {
+        "img": "https://i.postimg.cc/XYDtMsqq/Data-Scince.jpg",
+        "title": "Data Science and Analytics",
+        "details": "Analyze data, build data visualizations, and gain insights using Python and data science tools.",
+        "price": 199.99,
+        "id": 7,
+        "credit": 4
+    },
+    {
+        "img": "https://i.postimg.cc/jjD0CGmy/cyber-Secureti.jpg",
+        "title": "Cybersecurity Essentials",
+        "details": "Learn the fundamentals of cybersecurity, including network security, ethical hacking, and more.",
+        "price": 149.99,
+        "id": 8,
+        "credit": 4
+    },
+    {
+        "img": "https://i.postimg.cc/tChD92gD/blockchain.jpg",
+        "title": "Blockchain Development Masterclass",
+        "details": "Build decentralized applications and smart contracts on the blockchain. Explore blockchain technologies.",
+        "price": 229.99,
+        "id": 9,
+        "credit": 4
+    }
+]
